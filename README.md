@@ -56,7 +56,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -85,7 +85,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]()
+<!-- [![Product Name Screen Shot][product-screenshot]]() -->
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -96,7 +96,7 @@ Here's a blank template to get started:
 
 <!-- LIST OF PAPERS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">List of Papers</h2></summary>
+  <summary>List of Papers</summary>
   <details open='close'>
     <summary><h2 style="display: inline-block">Data Science</h2></summary>
     <ul>
